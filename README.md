@@ -1,2 +1,2 @@
 # Jintu Zheng's homepage
-Visit [https://jintuzheng.github.io/homepage/](https://jintuzheng.github.io/homepage/)
+Visit [https://jintuzheng.github.io/](https://jintuzheng.github.io/)
